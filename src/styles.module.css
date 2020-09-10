@@ -1,0 +1,22 @@
+.dishlist {
+  max-width: 300px;
+}
+
+.dishlist ul {
+  list-style-type: none;
+  border: 1px solid;
+  background: darkgray;
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+
+.dishlist li {
+  color: black;
+  padding-left: 10px;
+}
+
+.dishselected {
+  background: lightgray;
+}
